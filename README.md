@@ -1,4 +1,3 @@
-
   <img src="wave-top.svg"/>
   
 <h2 align="left">💫 About Me:</h2>
@@ -99,5 +98,8 @@
 
 ###
 
+<img src="https://raw.githubusercontent.com/PsydoV2/PsydoV2/output/snake.svg" alt="Snake animation" />
 
-  <img src="wave.svg"/>
+###
+
+<img src="wave.svg"/>
