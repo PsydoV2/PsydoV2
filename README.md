@@ -1,12 +1,4 @@
   <img src="wave-top.svg"/>
-  
-<h2 align="left">💫 About Me:</h2>
-
-###
-
-<p align="left">🔭 I’m currently working on a social media app<br>🌱 I’m currently learning three.js<br>💬 Ask me about web development<br>⚡ Fun fact Peanuts are one of the ingredients of dynamite.</p>
-
-###
 
 <h2 align="left">💻 Tech Stack:</h2>
 
