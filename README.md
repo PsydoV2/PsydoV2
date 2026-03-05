@@ -1,152 +1,259 @@
+<!-- TERMINAL HEADER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:e9eef8,60:cfd9ff,100:e9eef8&text=Sebastian%20Falter&fontColor=111827&fontSize=56&fontAlignY=38&desc=Code%20%E2%80%A2%20Design%20%E2%80%A2%20Fullstack%20%E2%80%A2%20Automation&descAlignY=62&descSize=16" width="100%" alt="header"/>
 
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Arial&weight=900&size=30&duration=2000&pause=500&color=EBEBEB&background=A589FF00&center=true&vCenter=true&random=true&width=650&lines=Fullstack+Developer;IoT+%2F+Home+Assistant;UI%2FUX+%2B+Rapid+Prototyping"
-    alt="Typing SVG"
-  />
+```
+ ____       _               _   _               _____     _ _            
+/ ___|  ___| |__   __ _ ___| |_(_) __ _ _ __   |  _____ _| | |_ ___ _ __ 
+\___ \ / _ | '_ \ / _` / __| __| |/ _` | '_ \  | |_ / _` | | __/ _ | '__|
+ ___) |  __| |_) | (_| \__ | |_| | (_| | | | | |  _| (_| | | ||  __| |   
+|____/ \___|_.__/ \__,_|___/\__|_|\__,_|_| |_| |_|  \__,_|_|\__\___|_|   
+                                                                
 
-  <br/>
+              > FULLSTACK DEV  //  SYSTEM ONLINE  //  ALL MODULES LOADED
+```
 
-  <a href="https://instagram.com/sebfalter">
-    <img src="https://img.shields.io/badge/Instagram-111827?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="https://linkedin.com/in/sebfalter">
-    <img src="https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://pinterest.com/sebfalter">
-    <img src="https://img.shields.io/badge/Pinterest-111827?style=for-the-badge&logo=pinterest&logoColor=white" alt="Pinterest"/>
-  </a>
-
-  <br/><br/>
-</div>
-
-<div align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PsydoV2&theme=github_dark"
-    width="100%"
-    alt="profile-details"
-  />
-
-  <table>
-    <tr>
-      <td>
-        <img
-          src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=PsydoV2&theme=github_dark"
-          alt="stats"
-        />
-      </td>
-      <td>
-        <img
-          src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PsydoV2&theme=github_dark&utcOffset=1"
-          alt="productive-time"
-        />
-      </td>
-    </tr>
-  </table>
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=18&duration=2000&pause=500&color=39FF14&background=00000000&center=true&vCenter=true&width=600&lines=_+Fullstack+Developer;_+IoT+%2F+Home+Assistant+Architect;_+UI%2FUX+%2B+Rapid+Prototyping;_+%5BREADY%5D+Accepting+new+connections...%20_" alt="Typing SVG"/>
 
 <br/>
 
+[![Instagram](https://img.shields.io/badge/%5B_INSTAGRAM_%5D-000000?style=flat-square&logo=instagram&logoColor=39FF14)](https://instagram.com/sebfalter)
+[![LinkedIn](https://img.shields.io/badge/%5B_LINKEDIN_%5D-000000?style=flat-square&logo=linkedin&logoColor=39FF14)](https://linkedin.com/in/sebfalter)
+[![Pinterest](https://img.shields.io/badge/%5B_PINTEREST_%5D-000000?style=flat-square&logo=pinterest&logoColor=39FF14)](https://pinterest.com/sebfalter)
+
+</div>
+
+---
+
+```
+> whoami
+```
+
+```
+NAME     : Sebastian Falter
+ROLE     : Fullstack Developer
+LOCATION : /dev/earth
+STATUS   : [ONLINE]
+UPTIME   : always
+```
+
+---
+
+```
+> cat stats.log
+```
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PsydoV2&theme=github_dark" width="100%" alt="profile-details"/>
+
+<table>
+<tr>
+<td><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=PsydoV2&theme=github_dark" alt="stats"/></td>
+<td><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PsydoV2&theme=github_dark&utcOffset=1" alt="productive-time"/></td>
+</tr>
+</table>
+
+</div>
+
+---
+
+```
+> ls ./tech --all
+```
+
 <details>
-  <summary><b>💻 Tech</b></summary>
-  <br/>
+<summary><code>[+] EXPAND MODULE: FRONTEND</code></summary>
+<br/>
 
-  <b>Frontend</b><br/>
+```
+/frontend
+├── HTML5
+├── CSS3
+├── Sass
+├── TailwindCSS
+├── Bootstrap
+├── Vite
+├── Electron
+└── Expo
+```
 
-  ![HTML5](https://img.shields.io/badge/HTML5-111827?style=flat&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/CSS3-111827?style=flat&logo=css3&logoColor=white)
-  ![Sass](https://img.shields.io/badge/Sass-111827?style=flat&logo=sass&logoColor=white)
-  ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-111827?style=flat&logo=tailwindcss&logoColor=white)
-  ![Bootstrap](https://img.shields.io/badge/Bootstrap-111827?style=flat&logo=bootstrap&logoColor=white)
-  ![Vite](https://img.shields.io/badge/Vite-111827?style=flat&logo=vite&logoColor=white)
-  ![Electron](https://img.shields.io/badge/Electron-111827?style=flat&logo=electron&logoColor=white)
-  ![Expo](https://img.shields.io/badge/Expo-111827?style=flat&logo=expo&logoColor=white)
-
-  <b>Backend</b><br/>
-
-  ![Node.js](https://img.shields.io/badge/Node.js-111827?style=flat&logo=node.js&logoColor=white)
-  ![Express](https://img.shields.io/badge/Express-111827?style=flat&logo=express&logoColor=white)
-  ![PHP](https://img.shields.io/badge/PHP-111827?style=flat&logo=php&logoColor=white)
-  ![Python](https://img.shields.io/badge/Python-111827?style=flat&logo=python&logoColor=white)
-  ![Java](https://img.shields.io/badge/Java-111827?style=flat&logo=openjdk&logoColor=white)
-  ![C%23](https://img.shields.io/badge/C%23-111827?style=flat&logo=csharp&logoColor=white)
-  ![.NET](https://img.shields.io/badge/.NET-111827?style=flat&logo=.net&logoColor=white)
-  ![JWT](https://img.shields.io/badge/JWT-111827?style=flat&logo=jsonwebtokens&logoColor=white)
-
-  <b>Data / Caching</b><br/>
-
-  ![MySQL](https://img.shields.io/badge/MySQL-111827?style=flat&logo=mysql&logoColor=white)
-  ![MariaDB](https://img.shields.io/badge/MariaDB-111827?style=flat&logo=mariadb&logoColor=white)
-  ![SQLite](https://img.shields.io/badge/SQLite-111827?style=flat&logo=sqlite&logoColor=white)
-  ![Redis](https://img.shields.io/badge/Redis-111827?style=flat&logo=redis&logoColor=white)
-
-  <b>Dev Tools</b><br/>
-
-  ![Git](https://img.shields.io/badge/Git-111827?style=flat&logo=git&logoColor=white)
-  ![GitHub](https://img.shields.io/badge/GitHub-111827?style=flat&logo=github&logoColor=white)
-  ![ESLint](https://img.shields.io/badge/ESLint-111827?style=flat&logo=eslint&logoColor=white)
-  ![PowerShell](https://img.shields.io/badge/PowerShell-111827?style=flat&logo=powershell&logoColor=white)
-  ![Bash](https://img.shields.io/badge/Bash-111827?style=flat&logo=gnubash&logoColor=white)
-  ![Windows%20Terminal](https://img.shields.io/badge/Windows%20Terminal-111827?style=flat&logo=windowsterminal&logoColor=white)
-
+![HTML5](https://img.shields.io/badge/HTML5-000000?style=flat-square&logo=html5&logoColor=39FF14)
+![CSS3](https://img.shields.io/badge/CSS3-000000?style=flat-square&logo=css3&logoColor=39FF14)
+![Sass](https://img.shields.io/badge/Sass-000000?style=flat-square&logo=sass&logoColor=39FF14)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-000000?style=flat-square&logo=tailwindcss&logoColor=39FF14)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-000000?style=flat-square&logo=bootstrap&logoColor=39FF14)
+![Vite](https://img.shields.io/badge/Vite-000000?style=flat-square&logo=vite&logoColor=39FF14)
+![Electron](https://img.shields.io/badge/Electron-000000?style=flat-square&logo=electron&logoColor=39FF14)
+![Expo](https://img.shields.io/badge/Expo-000000?style=flat-square&logo=expo&logoColor=39FF14)
 
 </details>
 
-
-
 <details>
-  <summary><b>🧱 Full stack / tools</b></summary>
-  <br/>
+<summary><code>[+] EXPAND MODULE: BACKEND</code></summary>
+<br/>
 
-  <b>Frameworks & Libraries</b><br/>
+```
+/backend
+├── Node.js
+├── Express
+├── PHP
+├── Python
+├── Java
+├── C#
+├── .NET
+└── JWT
+```
 
-  ![Next.js](https://img.shields.io/badge/Next.js-111827?style=flat&logo=next.js&logoColor=white)
-  ![React](https://img.shields.io/badge/React-111827?style=flat&logo=react&logoColor=white)
-  ![React%20Native](https://img.shields.io/badge/React%20Native-111827?style=flat&logo=react&logoColor=white)
-  ![React%20Router](https://img.shields.io/badge/React%20Router-111827?style=flat&logo=reactrouter&logoColor=white)
-  ![React%20Query](https://img.shields.io/badge/React%20Query-111827?style=flat&logo=reactquery&logoColor=white)
-  ![React%20Hook%20Form](https://img.shields.io/badge/React%20Hook%20Form-111827?style=flat&logo=reacthookform&logoColor=white)
-  ![jQuery](https://img.shields.io/badge/jQuery-111827?style=flat&logo=jquery&logoColor=white)
-  ![Chart.js](https://img.shields.io/badge/Chart.js-111827?style=flat&logo=chart.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-000000?style=flat-square&logo=node.js&logoColor=39FF14)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=39FF14)
+![PHP](https://img.shields.io/badge/PHP-000000?style=flat-square&logo=php&logoColor=39FF14)
+![Python](https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=39FF14)
+![Java](https://img.shields.io/badge/Java-000000?style=flat-square&logo=openjdk&logoColor=39FF14)
+![C#](https://img.shields.io/badge/C%23-000000?style=flat-square&logo=csharp&logoColor=39FF14)
+![.NET](https://img.shields.io/badge/.NET-000000?style=flat-square&logo=.net&logoColor=39FF14)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=39FF14)
 
-  <b>Infra / Ops</b><br/>
-
-  ![Nginx](https://img.shields.io/badge/Nginx-111827?style=flat&logo=nginx&logoColor=white)
-  ![Apache](https://img.shields.io/badge/Apache-111827?style=flat&logo=apache&logoColor=white)
-  ![Jenkins](https://img.shields.io/badge/Jenkins-111827?style=flat&logo=jenkins&logoColor=white)
-  ![npm](https://img.shields.io/badge/npm-111827?style=flat&logo=npm&logoColor=white)
-  ![esbuild](https://img.shields.io/badge/esbuild-111827?style=flat&logo=esbuild&logoColor=white)
-  ![Vite](https://img.shields.io/badge/Vite-111827?style=flat&logo=vite&logoColor=white)
-
-  <b>Smart Home / Networking</b><br/>
-
-  ![Home%20Assistant](https://img.shields.io/badge/Home%20Assistant-111827?style=flat&logo=homeassistant&logoColor=white)
-  ![MQTT](https://img.shields.io/badge/MQTT-111827?style=flat&logo=eclipsemosquitto&logoColor=white)
-  ![Zigbee](https://img.shields.io/badge/Zigbee-111827?style=flat&logo=zigbee&logoColor=white)
-  ![Raspberry%20Pi](https://img.shields.io/badge/Raspberry%20Pi-111827?style=flat&logo=raspberrypi&logoColor=white)
-  ![Pi-hole](https://img.shields.io/badge/Pi--hole-111827?style=flat&logo=pi-hole&logoColor=white)
-  ![Ubiquiti](https://img.shields.io/badge/Ubiquiti-111827?style=flat&logo=ubiquiti&logoColor=white)
-  ![Cisco](https://img.shields.io/badge/Cisco-111827?style=flat&logo=cisco&logoColor=white)
-
-  <b>Design / Productivity</b><br/>
-
-  ![Figma](https://img.shields.io/badge/Figma-111827?style=flat&logo=figma&logoColor=white)
-  ![Blender](https://img.shields.io/badge/Blender-111827?style=flat&logo=blender&logoColor=white)
-  ![Notion](https://img.shields.io/badge/Notion-111827?style=flat&logo=notion&logoColor=white)
-  ![Trello](https://img.shields.io/badge/Trello-111827?style=flat&logo=trello&logoColor=white)
-  ![Swagger](https://img.shields.io/badge/Swagger-111827?style=flat&logo=swagger&logoColor=white)
 </details>
 
+<details>
+<summary><code>[+] EXPAND MODULE: DATA / CACHING</code></summary>
 <br/>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/PsydoV2/PsydoV2/output/github-contribution-grid-snake-dark.svg" width="100%" alt="snake"/>
-</div>
+```
+/data
+├── MySQL
+├── MariaDB
+├── SQLite
+└── Redis
+```
 
+![MySQL](https://img.shields.io/badge/MySQL-000000?style=flat-square&logo=mysql&logoColor=39FF14)
+![MariaDB](https://img.shields.io/badge/MariaDB-000000?style=flat-square&logo=mariadb&logoColor=39FF14)
+![SQLite](https://img.shields.io/badge/SQLite-000000?style=flat-square&logo=sqlite&logoColor=39FF14)
+![Redis](https://img.shields.io/badge/Redis-000000?style=flat-square&logo=redis&logoColor=39FF14)
+
+</details>
+
+<details>
+<summary><code>[+] EXPAND MODULE: FRAMEWORKS</code></summary>
 <br/>
 
+```
+/frameworks
+├── Next.js
+├── React
+├── React Native
+├── React Router
+├── React Query
+├── React Hook Form
+├── jQuery
+└── Chart.js
+```
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=39FF14)
+![React](https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=39FF14)
+![React Native](https://img.shields.io/badge/React%20Native-000000?style=flat-square&logo=react&logoColor=39FF14)
+![React Router](https://img.shields.io/badge/React%20Router-000000?style=flat-square&logo=reactrouter&logoColor=39FF14)
+![React Query](https://img.shields.io/badge/React%20Query-000000?style=flat-square&logo=reactquery&logoColor=39FF14)
+![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-000000?style=flat-square&logo=reacthookform&logoColor=39FF14)
+![jQuery](https://img.shields.io/badge/jQuery-000000?style=flat-square&logo=jquery&logoColor=39FF14)
+![Chart.js](https://img.shields.io/badge/Chart.js-000000?style=flat-square&logo=chart.js&logoColor=39FF14)
+
+</details>
+
+<details>
+<summary><code>[+] EXPAND MODULE: SMART HOME / IoT</code></summary>
+<br/>
+
+```
+/iot
+├── Home Assistant
+├── MQTT
+├── Zigbee
+├── Raspberry Pi
+├── Pi-hole
+├── Ubiquiti
+└── Cisco
+```
+
+![Home Assistant](https://img.shields.io/badge/Home%20Assistant-000000?style=flat-square&logo=homeassistant&logoColor=39FF14)
+![MQTT](https://img.shields.io/badge/MQTT-000000?style=flat-square&logo=eclipsemosquitto&logoColor=39FF14)
+![Zigbee](https://img.shields.io/badge/Zigbee-000000?style=flat-square&logo=zigbee&logoColor=39FF14)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-000000?style=flat-square&logo=raspberrypi&logoColor=39FF14)
+![Pi-hole](https://img.shields.io/badge/Pi--hole-000000?style=flat-square&logo=pi-hole&logoColor=39FF14)
+![Ubiquiti](https://img.shields.io/badge/Ubiquiti-000000?style=flat-square&logo=ubiquiti&logoColor=39FF14)
+![Cisco](https://img.shields.io/badge/Cisco-000000?style=flat-square&logo=cisco&logoColor=39FF14)
+
+</details>
+
+<details>
+<summary><code>[+] EXPAND MODULE: INFRA / OPS</code></summary>
+<br/>
+
+```
+/infra
+├── Nginx
+├── Apache
+├── Jenkins
+├── npm
+├── esbuild
+└── Vite
+```
+
+![Nginx](https://img.shields.io/badge/Nginx-000000?style=flat-square&logo=nginx&logoColor=39FF14)
+![Apache](https://img.shields.io/badge/Apache-000000?style=flat-square&logo=apache&logoColor=39FF14)
+![Jenkins](https://img.shields.io/badge/Jenkins-000000?style=flat-square&logo=jenkins&logoColor=39FF14)
+![npm](https://img.shields.io/badge/npm-000000?style=flat-square&logo=npm&logoColor=39FF14)
+![esbuild](https://img.shields.io/badge/esbuild-000000?style=flat-square&logo=esbuild&logoColor=39FF14)
+
+</details>
+
+<details>
+<summary><code>[+] EXPAND MODULE: DESIGN / TOOLS</code></summary>
+<br/>
+
+```
+/tools
+├── Figma
+├── Blender
+├── Notion
+├── Trello
+└── Swagger
+```
+
+![Figma](https://img.shields.io/badge/Figma-000000?style=flat-square&logo=figma&logoColor=39FF14)
+![Blender](https://img.shields.io/badge/Blender-000000?style=flat-square&logo=blender&logoColor=39FF14)
+![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=39FF14)
+![Trello](https://img.shields.io/badge/Trello-000000?style=flat-square&logo=trello&logoColor=39FF14)
+![Swagger](https://img.shields.io/badge/Swagger-000000?style=flat-square&logo=swagger&logoColor=39FF14)
+
+</details>
+
+---
+
+```
+> run snake.exe
+```
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:e9eef8,60:cfd9ff,100:e9eef8&section=footer&text=&fontSize=0" width="100%" alt="footer"/>
+
+<img src="https://raw.githubusercontent.com/PsydoV2/PsydoV2/output/github-contribution-grid-snake-dark.svg" width="100%" alt="snake"/>
+
 </div>
+
+---
+
+```
+> exit
+```
+
+```
+╔══════════════════════════════════════════════════════════════════╗
+║                                                                  ║
+║   [SESSION TERMINATED]                                           ║
+║   Thanks for visiting. Come back soon.                          ║
+║                                                                  ║
+║   > _                                                            ║
+║                                                                  ║
+╚══════════════════════════════════════════════════════════════════╝
+```
