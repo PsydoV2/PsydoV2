@@ -36,7 +36,6 @@
 
 [![Instagram](https://img.shields.io/badge/%5B_INSTAGRAM_%5D-000000?style=flat-square&logo=instagram&logoColor=39FF14)](https://instagram.com/sebfalter)
 [![LinkedIn](https://img.shields.io/badge/%5B_LINKEDIN_%5D-000000?style=flat-square&logo=linkedin&logoColor=39FF14)](https://linkedin.com/in/sebfalter)
-[![Pinterest](https://img.shields.io/badge/%5B_PINTEREST_%5D-000000?style=flat-square&logo=pinterest&logoColor=39FF14)](https://pinterest.com/sebfalter)
 
 </div>
 
