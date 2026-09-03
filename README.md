@@ -16,7 +16,6 @@
 - 🛠️ Fullstack developer who's equally happy in a browser tab or a terminal
 - 🏠 Building and automating smart homes with Home Assistant, MQTT & Zigbee
 - ⚡ Into rapid prototyping — turning ideas into working UI fast
-- 📍 Based on planet Earth, usually near a keyboard
 
 <br/>
 
